@@ -10,7 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 # set bg
-exec feh --bg-fill chinatown.png
+exec feh --bg-scale .config/i3/chinatown.png
 
 # start compton
 exec_always --no-startup-id compton -b
